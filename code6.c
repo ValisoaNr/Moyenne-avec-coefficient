@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-float main ()
+int main ()
 {
 	float n1 , n2 , m ;
 	int  c1  , c2 ;
